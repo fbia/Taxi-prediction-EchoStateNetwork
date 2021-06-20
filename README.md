@@ -1,12 +1,5 @@
-# Prediction of taxi destination trips based
+# Prediction of taxi destination trips based on initial partial trajectories
 
-# on initial partial trajectories
-
-```
-Francesco Brundu
-cganimotion@gmail.com
-AA2 Final Project (A.A. 2014-15)
-July 2015
 ```
 ## 1 Introduction
 
